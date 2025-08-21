@@ -51,6 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
         heroImage.src = images[index];
         heroImage.classList.remove("fade");
       }, 500);
-    }, 3000);
+    }, 5000);
   }
 });
+
